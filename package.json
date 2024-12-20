@@ -2,6 +2,7 @@
   "name": "router-track",
   "version": "1.0.0",
   "description": "A Router Track plugin for Vue",
+  "type": "module",
   "main": "dist/router-track.es.js",
   "types": "dist/types/index.d.ts",
   "scripts": {
